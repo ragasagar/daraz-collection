@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/daraz-collection/static/css/main.214f1567.chunk.css",
+    "main.js": "/daraz-collection/static/js/main.07177134.chunk.js",
+    "main.js.map": "/daraz-collection/static/js/main.07177134.chunk.js.map",
+    "runtime-main.js": "/daraz-collection/static/js/runtime-main.62f6775e.js",
+    "runtime-main.js.map": "/daraz-collection/static/js/runtime-main.62f6775e.js.map",
+    "static/js/2.7fe920a5.chunk.js": "/daraz-collection/static/js/2.7fe920a5.chunk.js",
+    "static/js/2.7fe920a5.chunk.js.map": "/daraz-collection/static/js/2.7fe920a5.chunk.js.map",
+    "index.html": "/daraz-collection/index.html",
+    "precache-manifest.215b37f58c4b846b0a655346b555d21f.js": "/daraz-collection/precache-manifest.215b37f58c4b846b0a655346b555d21f.js",
+    "service-worker.js": "/daraz-collection/service-worker.js",
+    "static/css/main.214f1567.chunk.css.map": "/daraz-collection/static/css/main.214f1567.chunk.css.map",
+    "static/js/2.7fe920a5.chunk.js.LICENSE.txt": "/daraz-collection/static/js/2.7fe920a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62f6775e.js",
+    "static/js/2.7fe920a5.chunk.js",
+    "static/css/main.214f1567.chunk.css",
+    "static/js/main.07177134.chunk.js"
+  ]
+}
