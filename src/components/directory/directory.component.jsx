@@ -49,6 +49,7 @@ class Directory extends Component {
             <div className="directory-menu">
                 {this.state.section.map(({ id, ...sectionPropOption }) => (
                     <MenuItem {...sectionPropOption} key={id} />
+
                 ))}
             </div>
         )
