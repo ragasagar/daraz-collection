@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/daraz-collection/precache-manifest.215b37f58c4b846b0a655346b555d21f.js"
+  "/daraz-collection/precache-manifest.ef2d26745ac918af611b3e2019f828fb.js"
 );
 
 self.addEventListener('message', (event) => {
