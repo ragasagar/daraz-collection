@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5168db65701a0826ecc54ddbfed79d55",
+    "revision": "f7698e022be769d33e546e2bb4217143",
     "url": "/daraz-collection/index.html"
   },
   {
-    "revision": "5ad2ffcad2b22ce3761f",
+    "revision": "a5472100711de06521b1",
     "url": "/daraz-collection/static/css/main.9045ec4d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daraz-collection/static/js/2.0b858440.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ad2ffcad2b22ce3761f",
-    "url": "/daraz-collection/static/js/main.4d208046.chunk.js"
+    "revision": "a5472100711de06521b1",
+    "url": "/daraz-collection/static/js/main.4c4c8323.chunk.js"
   },
   {
     "revision": "cddca791ba92a7771fa0",
